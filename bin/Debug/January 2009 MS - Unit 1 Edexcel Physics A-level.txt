@@ -1,0 +1,360 @@
+ 
+PMT
+ 
+Unit 1 6PH01_01 
+ 
+Question Answer Mark 
+Number 
+1 A 1 
+2 C 1 
+3 B 1 
+4 B 1 
+5 A 1 
+6 D 1 
+7 C 1 
+8 B 1 
+9 C 1 
+10 B 1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+PMT
+ 
+Question Answer Mark 
+Number 
+6
+11(a) Show that the resultant force on the rocket is about 4 x 10 N  
+  
+Use of W = mg (1)  
+State or use resultant force = upward force – weight (1)  
+6
+Correct answer to at least 2 s.f. [4.2 x 10 N] (1)  [no ue] 3 
+ 
+Example of calculation 
+ 
+W = mg 
+6 -2
+W = 3.04 x 10 kg x 9.81 kg m s 
+7
+= 2.98 x 10 N 
+7 7 6
+Resultant force =  3.4 x 10 N – 2.98 x 10 N = 4.2 x 10 N 
+11(b) Calculate the initial acceleration.  
+  
+Use of F = ma (1)  
+-2
+Correct answer [1.38 m s ] (1)  [ecf] 2 
+ 
+Example of calculation 
+a = F/m 
+6 6
+= 4.2 x 10 N / 3.04 x 10 kg 
+-2
+= 1.38 m s 
+11(c) Calculate the average acceleration.  
+  
+Use of v = u + at (1)  
+-2
+Correct answer [15.9 m s ] (1) [beware same unit error as part b not 2 
+penalised] 
+ 
+Example of calculation 
+a = (v – u) / t 
+-1 
+= (2390 m s – 0) / 150 s  
+-2
+= 15.9 m s 
+11(d) Suggest a reason for the difference in the values of acceleration  
+calculated.  
+  
+e.g. Mass decreasing / weight decreasing / net upward force 1 
+increasing / fuel used up / gets lighter / g decreasing /air resistance 
+decreasing with altitude (1) 
+ Total for question 8 
+ 
+Question Answer Mark 
+Number 
+12 (a) Explain what is meant by each of the following terms   
+  
+limit of proportionality – stress proportional to strain / obeys Hooke’s  
+law / Force proportional to extension up to this point (1)  
+tensile strength – greatest stress before fracturing (1)  
+yield point – point at which plastic deformation begins / point at  
+which material shows a larger increase in strain for a smaller increase  
+in stress (1) 3 
+12 (b) Mark ‘limit of proportionality’ and the ‘yield point’ on the graph.  
+  
+L shown at end of linear part (1)  
+Y shown beyond L and up to maximum stress (1) 2 
+ Total for question 5 
+ 
+  
+PMT
+ 
+Question Answer Mark 
+Number 
+13(a) Describe what is meant by:  
+  
+laminar flow – no abrupt change in direction or speed of flow /air  
+flows in layers/flowlines/streamlines with no mixing (1)  
+  
+turbulent flow – mixing of layers / contains eddies / abrupt changes in  
+speed or direction (1) 2 
+ 
+13(b) Add to the diagram  
+  
+laminar flow shown - at least 3 continuous lines (1)  
+turbulent flow shown – eddies / layers crossing over (1) 2 
+3(c) Explain how this would increase the range of the ball.  
+  
+(smaller area of turbulent flow Æ ) less resistive force (1)  
+Less kinetic energy dissipated / kinetic energy dissipated at lower  
+rate / less work done against air resistance / less deceleration (1) 2 
+ Total for question 6 
+ 
+ 
+Question Answer Mark 
+Number 
+14(a) What is meant by Newton’s first law.  
+  
+reference to constant velocity OR rest and uniform motion in a  
+straight line (1) 2 
+reference to zero resultant force / unbalanced force (1) 
+(examples: ∆v = 0 if ΣF = 0; ∆v = 0 unless ΣF ≠ 0) 
+14(b) (i) State 2 ways in which the forces in the pair are identical.  
+  
+2 of magnitude, type of force, line of action, time of action (1) (1) 2 
+14(b) State 2 ways in which the forces in the pair differ.  
+(ii)   
+Opposite direction, act on different bodies (1) (1) 2 
+14(b) Describe the force that Newton’s third law identifies as the pair of  
+(iii) this force.  
+  
+car exerts upward/opposite force on Earth (the different points) (1) 2 
+gravitational and 12 000 N/equal (the identical points) (1) [no ue] 
+ Total for question 8 
+ 
+  
+PMT
+ 
+Question Answer Mark 
+Number 
+15a Describe how you could measure g  
+   
+ QWC – Work must be clear and organised in a logical manner using  
+ technical wording where appropriate 
+ 
+   
+ Max 6 marks  
+ state sufficient quantities to be measured (e.g. s and t OR v, u and t  
+ OR u, v  and s)) (1)  
+ relevant apparatus (includes ruler and timer/data logger/ light gates)  
+ (1)  
+ describe how a distance is measured (1)  
+ describe how a speed or time is measured (1)  
+ further detail of measurement of speed or time (1)  
+ vary for described quantities and plot appropriate graph (1)  
+ state how result calculated (1) Max 6 
+15b repeat and mean (one mark max for any relevant quantity/result) (1)  
+  1 
+Precaution – a precaution relating to experimental procedure (1) 
+ 
+ Total for question 7 
+ 
+Question Answer Mark 
+Number 
+16(a) Calculate the resistive forces  
+  
+ 
+State component of T = T cos θ (1) 
+ 
+Correct answer [1120 N] (1) 
+2 
+ 
+Example of calculation 
+T = T cos θ 
+= 1150 N x cos 12° 
+= 1125 N 
+Therefore resistive forces = 1125 N 
+16(b) Calculate the work done on the boat by the horse  
+ 
+ 
+Use of ∆W = F∆s (1)  
+Correct answer [558 000 J] (1) [ecf] 2 
+ 
+Example of calculation 
+∆W = F∆s 
+= 1125 N x 500 m 
+=560 000 J 
+16(c) Explain using a longer rope  
+  
+Longer rope Æ smaller angle (1)  
+cos theta then larger / need smaller force (for same component  
+acting on boat) (1) 2 
+ Total for question 6 
+ 
+  
+PMT
+ 
+Question Answer Mark 
+Number 
+17(a) Correct the diagram  
+  
+Parabolic path shown (1) [allow for moderate effects of air resistance] 1 
+ 
+17b) Explain why a projectile follows the path you have drawn.  
+  
+state horizontal speed constant / air resistance negligible (1)  
+horizontal motion independent of vertical motion / unaffected by  
+gravity (1)  
+state downwards acceleration / downward force acting / gravity acts 3 
+on vertical motion (1) 
+ 
+17(c) Explain why the balloon follows this path.  
+  
+QWC – Work must be clear and organised in a logical manner using  
+technical wording where appropriate  
+  
+Air resistance high (1)  
+so balloon decelerates horizontally also (1)  
+from max height/when speed zero it falls (vertically) (1) 3 
+ 
+ Total for question 7 
+ 
+ 
+ 
+Question Answer Mark 
+Number 
+18(a) Add labelled arrows to show the other forces on the submarine.   
+  
+Label upthrust, weight and viscous drag: 3 correct (2), 1 or 2 correct 2 
+(1) 
+(Accept unambiguous single letter labels, e.g. U, W and V/F/D/VD)  
+(Accept mg for weight but do not accept ‘gravity’) 
+18(b) State two equations to show the relationship between the forces  
+  
+Upthrust = (-)Weight (1)  
+Thrust = (-)Viscous drag (1) 2 
+ 
+7
+18(c) Show that the submarine has a weight of about 7 x 10 N.  
+  
+Use of density = m/V (1)  
+7
+Correct answer [7.2 x 10 N to at least 2 s.f.] (1) [no ue] 2 
+ 
+Example of calculation 
+calculate weight of water as U = W 
+m = density x volume 
+-3 3
+= 1030 kg m x 7 100 m 
+6
+= 7.3 x 10 kg  
+W = mg 
+6 -1
+W = 7.3 x 10 kg x 9.81 N kg 
+7
+= 7.2 x 10 N 
+ 
+  
+PMT
+ 
+18(d) (i) Explain what is meant by compressive strain.  
+  
+decrease in length / original length (1) 1 
+ 
+18(d) Explain the action that should be taken  
+(ii)   
+pump out water / replace water in tanks  with air (1)  
+to decrease weight (accept mass) / to compensate for decreased  
+upthrust / to make density the same as water (1) 2 
+18(d) Suggest why a material like fibreglass would be unsuitable  
+(iii) QWC – Work must be clear and organised in a logical manner using  
+technical wording where appropriate  
+  
+A much greater (compressive) strain will be produced / compresses  
+more easily (1)  
+producing a larger decrease in volume/upthrust/deformation (1) 2 
+ Total for question 11 
+ 
+Question Answer Mark 
+Number 
+19(a) (i) Explain the shape of the graph in the part labelled AB  
+  
+Force proportional to extension / obeys Hooke’s law (1) 1 
+19(a) Explain what is happening in the part of the graph labelled CD.  
+(ii)   
+Fully compressed / coils closed (accept cup/bug/toy touches base) (1) 1 
+ 
+-1
+19(b) Show that the stiffness of the spring is about 1000 N m .  
+  
+State k = 1/gradient or use of values in k = F / x (1)  
+-1
+Correct answer to at least 2 s.f. [1100 N m ] (1) 2 
+(Values from graph must be within half a square) 
+-1
+(Accept 1000 N m to only 1 s.f. if the answer given by the values 
+3 -1
+used from the graph is 1.0 x 10 N m to 2 s.f.) 
+ 
+Example of calculation 
+k = F / x 
+= 20 N / 0.019 m 
+-1 
+= 1050 N m
+19(c) (i) Calculate the energy stored in the spring at this stage  
+ 
+ 
+ 
+State area under graph or use of energy = 1/2 F∆x or state energy = 
+2
+1/2 kx (1)  
+2 
+correct answer [0.17 J] (1) [ecf for k] 
+(Values from graph must be within half a square) 
+ 
+Example of calculation 
+energy = 1/2 F∆x 
+ 
+= 1/2 x 19.2 N x 0.018 m
+= 0.17 J 
+  
+PMT
+ 
+19(c) Calculate the maximum height reached by the bug.  
+(ii) Use of gpe = mgh (1)  
+correct answer [2.4 m] (1) [ecf]  
+2 
+Example of calculation 
+0.17 J = mgh 
+-3 -1 
+h = 0.17 m / 7.3 x 10 kg x 9.81 N kg
+= 2.4 m 
+19(c) State an assumption made in your calculation  
+(iii)   
+all elastic pe Æ ke of bug Æ gpe of bug (2 out of 3) /  
+all stored energy (of the spring) transferred to the ‘toy’ /  
+no energy lost due to air resistance (1) 1 
+19(d) Explain the advantage of using the video camera  
+  
+improves accuracy/reliability/precision (1)  
+eliminate reaction time in looking / can slow down and stop (to take  
+reading) etc (1) 2 
+19(e) Comment on this data  
+  
+Has not included 0.36 / has not included the anomalous result /  
+0.36 is anomalous/outlier etc (1) 1 
+ Total for question 12 
+ 
+  
+PMT
+ 
+ 

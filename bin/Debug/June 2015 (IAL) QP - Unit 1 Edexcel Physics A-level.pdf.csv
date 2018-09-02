@@ -1,0 +1,117 @@
+questionNo,questionAqua,questionSmall,question,markScheme,score,Topics
+0,a,," the vertical lines are evenly spaced,
+",,1,
+0,b,," the horizontal lines become closer together.
+",,1,
+12,a,," On the axes below, sketch the corresponding graph of vertical acceleration against 
+time for the motion of the cricket ball.
+",,2,
+12,b,," On the axes below, sketch the corresponding graph of vertical displacement against 
+time for the motion of the cricket ball.
+",,2,
+13,a,," Identify forces X, Y and Z.
+",,3,
+13,b,," A student uses Stokes’ law to calculate force Y. 
+  State the measurements the student should make to calculate force Y acting on the 
+ball when it is moving at terminal velocity.
+",,2,
+14,a,," A force is applied across the ends of a sample of wire.  For small forces the 
+deformation of the wire is elastic and for large forces the deformation is plastic. 
+  Explain what is meant by the terms 
+",,3,
+14,b,(i)," On the axes below, sketch the stress-strain graph for copper.
+",,2,
+14,b,(ii)," With reference to your graph, state why copper is a suitable material for the 
+production of wires.
+",,1,
+15,a,," At a bend, the water on the inside of the bend is shallower than the water on the 
+outside of the bend. 
+outside
+inside
+  Suggest why the speed of the water is lower at the inside of the bend than at the 
+outside of the bend.
+",,1,
+15,b,," On a straight section of the river, the water becomes very turbulent around a large 
+rock.  Complete and label the diagram below to show the flow of the water around 
+the rock.
+",,2,
+15,c,," The river is flowing at a speed of 3 m s .  A boat is pointed at an angle of 40° to the 
+–1
+riverbank and paddled at a speed of 1.5 m s , as shown in the diagram.
+riverbank
+boat
+40°
+–1
+3 m s
+–1 river flow
+1.5 m s
+  In the space below, draw a vector diagram to scale and use it to determine the 
+magnitude of the actual velocity of the boat.
+",,3,
+16,a,(i)," Show that the horizontal component of the applied force is about 30 N.
+",,2,
+16,a,(ii)," Hence calculate the work done on the suitcase in pulling it a distance of 320 m.
+",,2,
+16,a,(iii)," Show that the vertical component of the applied force is about 70 N.
+",,2,
+16,b,," Explain how the magnitude and angle of the applied force must change in order to 
+make the suitcase accelerate horizontally.
+",,4,
+17,a,," The force-extension graph obtained when stretching a nylon rope is shown below.
+15 –
+10 –
+ 5 –
+ 0 –
+0.0 0.5 1.0 1.5 2.0
+Extension / m
+  Use the graph to determine the work done in extending the rope by 1.5 m.
+ ",,3,
+17,b,(i)," Explain why, even if the towing car had then stopped, the trapped car would still 
+begin to move.
+",,2,
+17,b,(ii),"  The nylon strap used for kinetic towing typically has a breaking strain of 25%.  
+Steel cables, often used for towing cars along roads, typically have a breaking 
+strain of 0.02%.
+   It can be assumed that the nylon strap and the steel cable both obey Hooke’s law.  
+Show that, for the same pulling force and just before breaking, a nylon strap can 
+store over 1000 times more energy than a steel cable of identical initial length and 
+cross sectional area.
+",,3,
+18,a,," Show that the mass of the athlete is about 80 kg.
+",,2,
+18,b,(i)," State what is meant by centre of gravity.
+",,1,
+25,c,," In order to jump, the athlete pushes down on the ground between 0.75 s and 1.05 s. 
+  With reference to Newton’s laws, explain why the athlete must push down on the 
+ground.
+",,3,
+25,d,," The maximum reaction force was reached at t = 0.9 s.  Calculate the acceleration of 
+the athlete at this point.
+",,3,
+25,e,(i)," Calculate the height jumped by the athlete.
+",,2,
+25,e,(ii)," Calculate the speed of the athlete on leaving the ground.
+",,2,
+19,a,(i)," Assuming that the frictional forces between the plane and the object are 
+negligible, explain why the object in diagram 1 takes longer to travel distance s 
+than the object in diagram 2.
+",,3,
+19,a,(ii)," Calculate the acceleration of the object in diagram 1 when ș = 35°. 
+",,2,
+19,b,(i)," On the axes below, sketch the distance-time graph that would be expected from 
+these readings.
+",,2,
+19,b,(ii)," Write an expression for the time taken, in terms of t, for the ball to roll a distance  
+2
+from the top of the plane.
+",,1,
+19,c,," Galileo repeated his measurements many times and obtained similar results on each 
+occasion.  He did not have a stopwatch and had to measure times using his pulse.  A 
+human pulse is about one beat per second. 
+  Comment on Galileo’s method.
+",,2,
+19,d,," Today, the acceleration of free fall can be found accurately by dropping a metal ball 
+vertically and using ICT to collect data. 
+  Suggest the apparatus required to take the measurements needed to calculate a value 
+for the acceleration of free fall.
+",,2,

@@ -1,0 +1,188 @@
+questionNo,questionAqua,questionSmall,question,markScheme,score,Topics
+11,a,," Show that the resultant force on the rocket is about 4× 10 N.
+","Use of W = mg (1)  
+State or use resultant force = upward force – weight (1)  
+6
+Correct answer to at least 2 s.f. [4.2 x 10 N] (1)  [no ue] 3 
+Example of calculation 
+W = mg 
+6 -2
+W = 3.04 x 10 kg x 9.81 kg m s 
+7
+= 2.98 x 10 N 
+7 7 6
+",3,
+11,b,," Calculate the initial acceleration.
+","Use of F = ma (1)  
+-2
+Correct answer [1.38 m s ] (1)  [ecf] 2 
+Example of calculation 
+a = F/m 
+6 6
+= 4.2 x 10 N / 3.04 x 10 kg 
+-2
+",2,
+11,c,," After 150 s the rocket reached a speed of 2390 m s .
+  Calculate its average acceleration.
+","Use of v = u + at (1)  
+",2,
+11,d,," Suggest why the initial acceleration and average acceleration are different.
+","calculated.  
+e.g. Mass decreasing / weight decreasing / net upward force 1 
+increasing / fuel used up / gets lighter / g decreasing /air resistance 
+decreasing with altitude (1) 
+ Total for question 8 
+Question Answer Mark 
+",1,
+12,a,," Explain what is meant by each of the following terms
+","limit of proportionality – stress proportional to strain / obeys Hooke’s  
+law / Force proportional to extension up to this point (1)  
+tensile strength – greatest stress before fracturing (1)  
+yield point – point at which plastic deformation begins / point at  
+which material shows a larger increase in strain for a smaller increase  
+",3,
+12,b,," Using crosses and the letters shown above, mark the ‘limit of proportionality’ (L) 
+and the ‘yield point’ (Y) on the graph.
+","L shown at end of linear part (1)  
+Y shown beyond L and up to maximum stress (1) 2 
+ Total for question 5 
+PMT
+Question Answer Mark 
+",2,
+13,a,," State what is meant by
+","laminar flow – no abrupt change in direction or speed of flow /air  
+flows in layers/flowlines/streamlines with no mixing (1)  
+turbulent flow – mixing of layers / contains eddies / abrupt changes in  
+speed or direction (1) 2 
+",2,
+13,b,," The diagram shows a ball for which the airflow becomes turbulent beyond points A 
+and B.  Add to the diagram to show the airflow around the ball.  The ball is moving 
+to the left.
+","laminar flow shown - at least 3 continuous lines (1)  
+",2,
+13,c,," It is suggested that ‘dimples’ on a golf ball decrease the area over which there is 
+turbulent flow so it is only produced beyond points C and D.
+C
+D
+  Explain how decreasing the area over which there is turbulent flow would increase 
+the range of a golf ball.
+","(smaller area of turbulent flow Æ ) less resistive force (1)  
+Less kinetic energy dissipated / kinetic energy dissipated at lower  
+rate / less work done against air resistance / less deceleration (1) 2 
+ Total for question 6 
+Question Answer Mark 
+",2,
+14,a,," What is meant by Newton’s first law of motion?
+","reference to constant velocity OR rest and uniform motion in a  
+straight line (1) 2 
+reference to zero resultant force / unbalanced force (1) 
+",2,
+14,b,(i)," State two ways in which the forces in a pair are identical.
+","",2,
+14,a,," Describe the apparatus you would use, the measurements you would take and explain 
+how you would use them to determine g.
+","reference to constant velocity OR rest and uniform motion in a  
+straight line (1) 2 
+reference to zero resultant force / unbalanced force (1) 
+",6,
+14,b,," Give one precaution you would take to ensure the accuracy of your measurements.
+","(ii)   
+",1,
+16,a,," The canal boat is moving at a steady speed.  Calculate the resistive force opposing 
+the boat’s forward motion.
+","State component of T = T cos θ (1) 
+Correct answer [1120 N] (1) 
+2 
+Example of calculation 
+",2,
+16,b,," Calculate the work done on the boat by the horse when the canal boat is towed 
+500 m along the canal.
+","Use of ∆W = F∆s (1)  
+Correct answer [558 000 J] (1) [ecf] 2 
+Example of calculation 
+",2,
+16,c,," Explain why using a longer rope could allow the horse to do the same work while 
+producing a lower tension in the rope.
+","Longer rope Æ smaller angle (1)  
+cos theta then larger / need smaller force (for same component  
+acting on boat) (1) 2 
+ Total for question 6 
+PMT
+Question Answer Mark 
+",2,
+17,a,," Correct the diagram to show the path followed by a projectile according to modern 
+observations.  Assume it has the same initial direction.
+","Parabolic path shown (1) [allow for moderate effects of air resistance] 1 
+",1,
+17,b,," Explain why a projectile follows the path you have drawn.  Your answer should 
+include reference to horizontal velocity.
+","state horizontal speed constant / air resistance negligible (1)  
+horizontal motion independent of vertical motion / unaffected by  
+gravity (1)  
+state downwards acceleration / downward force acting / gravity acts 3 
+on vertical motion (1) 
+",3,
+17,c,," When a toy balloon is hit quickly up at an angle, it appears to follow a path similar 
+to the one described by the fifteenth century explanation.
+  Explain why the balloon follows this path.
+","QWC – Work must be clear and organised in a logical manner using  
+technical wording where appropriate  
+Air resistance high (1)  
+so balloon decelerates horizontally also (1)  
+from max height/when speed zero it falls (vertically) (1) 3 
+ Total for question 7 
+Question Answer Mark 
+",3,
+18,a,," Add labelled arrows to show the other three forces on the submarine.
+","Label upthrust, weight and viscous drag: 3 correct (2), 1 or 2 correct 2 
+(1) 
+(Accept unambiguous single letter labels, e.g. U, W and V/F/D/VD)  
+",2,
+18,b,," State two equations that show the relationship between the forces acting on the 
+submarine.
+","Upthrust = (-)Weight (1)  
+Thrust = (-)Viscous drag (1) 2 
+",2,
+18,c,," The submarine has a volume of 7100 m .
+7
+  Show that the weight of the submarine is about 7× 10 N.
+–3
+  Density of sea water = 1030 kg m
+","Use of density = m/V (1)  
+7
+Correct answer [7.2 x 10 N to at least 2 s.f.] (1) [no ue] 2 
+Example of calculation 
+calculate weight of water as U = W 
+m = density x volume 
+-3 3
+= 1030 kg m x 7 100 m 
+6
+= 7.3 x 10 kg  
+W = mg 
+6 -1
+W = 7.3 x 10 kg x 9.81 N kg 
+7
+= 7.2 x 10 N 
+PMT
+",2,
+18,d,(i)," Explain what is meant by compressive strain.
+","decrease in length / original length (1) 1 
+",1,
+19,a,(i)," Explain the shape of section AB of the graph.
+","",1,
+19,b,," Show that the stiffness of the spring is about 1000 N m .
+","State k = 1/gradient or use of values in k = F / x (1)  
+-1
+Correct answer to at least 2 s.f. [1100 N m ] (1) 2 
+(Values from graph must be within half a square) 
+-1
+(Accept 1000 N m to only 1 s.f. if the answer given by the values 
+3 -1
+used from the graph is 1.0 x 10 N m to 2 s.f.) 
+Example of calculation 
+",2,
+19,c,(i)," Calculate the energy stored in the spring at this stage.
+","State area under graph or use of energy = 1/2 F∆x or state energy = 
+2
+1/2 kx (1)  
+",2,

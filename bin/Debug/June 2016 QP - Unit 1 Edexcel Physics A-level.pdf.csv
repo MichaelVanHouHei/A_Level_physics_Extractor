@@ -1,0 +1,92 @@
+questionNo,questionAqua,questionSmall,question,markScheme,score,Topics
+0,a,," A sample of lunar rock was observed to have a mass of 35 pounds.
+  Calculate the weight of the sample on the Moon.
+  1 pound = 0.45 kg
+",,3,
+0,b,," The sample measured in part (a) was brought to Earth.
+  Suggest how the measurements could be scaled so that the same spring balance could 
+be used to measure the mass of the sample on Earth.
+",,1,
+0,c,," Instead of rescaling the spring balance for use on Earth, the spring could be replaced.
+  Suggest, with a reason, a difference between springs selected for use in spring 
+balances on Earth and those for use on the Moon.
+",,2,
+0,a,," With reference to the shape of the graph, describe the behaviour of the wire under 
+increasing stress.  You may indicate on the graph the region you are describing.
+",,3,
+0,b,," Describe how the graph could be used to determine the Young modulus for the wire.
+",,2,
+0,c,," On the axes above, sketch the graph for a brittle material with a greater Young 
+modulus than the wire.
+",,2,
+0,a,," Two forces act on a body.  The free-body force diagram is shown.
+12 N
+35°
+16 N
+  On the grid below, complete the scale diagram to determine the resultant force acting 
+on the body.
+",,3,
+0,b,(i)," State what is meant by vector quantity.
+",,1,
+0,b,(ii)," Give two further examples of vector quantities.
+",,1,
+0,a,," A lorry stops at point A.
+  Draw a free-body force diagram for the forces acting on the bridge at point A.
+",,3,
+0,b,," Explain why the structure of the bridge allows it to withstand greater loads.
+",,2,
+0,a,," State what is meant by viscosity.
+",,1,
+0,b,(i)," Explain why this method can be used to determine the viscosity of the paint.
+",,2,
+0,b,(ii)," The time taken for the paint to drain from the cup was 17 s.  The following day 
+the same paint took 24 s to drain from the cup.
+   Suggest why the times were different.
+",,1,
+0,c,," The viscosity cup is a basic way of measuring viscosity.
+  Suggest two possible sources of error with this method and state how each error 
+would affect the time being measured.
+",,4,
+0,a,(i)," Calculate the horizontal distance that the golf ball should travel before reaching 
+the ground.
+",,4,
+0,b,(i)," On the axes below, sketch a velocity-time graph for the motion of a raindrop.
+",,2,
+0,b,(ii)," Explain why terminal velocity is reached.
+",,3,
+0,b,(iii)," Suggest why the upthrust acting on a raindrop is often considered to be 
+negligible.
+(1)
+..................................................................................................................................................................................................................................................
+..................................................................................................................................................................................................................................................
+ (b) After reaching terminal velocity, a raindrop took 2.6 minutes to fall 1100 m to the 
+ground.
+  (i) Calculate the terminal velocity of the raindrop.
+",,2,
+0,c,," The shape of the raindrop depends on its velocity.
+  Once at terminal velocity the raindrop is flat at the bottom due to laminar air flow 
+around it and remains curved at the top due to turbulent air flow.
+  Add to the diagram below to show the air flow around the falling raindrop.
+",,2,
+0,a,," The force-compression graph for the spring from the pogo stick is shown.
+4.0
+3.0
+2.0
+1.0
+0.0
+0 2 4 6 8 10
+Compression / cm
+  Determine the spring constant for the spring.
+",,2,
+0,b,(i)," Use the graph to show that the work done by the child on the spring is about 
+130 J.
+",,3,
+0,b,(ii)," When the spring is at its original length, as shown in position 2, the child is at his 
+maximum speed.
+   State the energy transfers that occur as the child moves upwards from position 1 to 
+position 2.
+",,2,
+0,c,," Between positions 1 and 2 the pogo stick is pushing down on the ground.
+  With reference to Newton’s laws of motion, explain how this downward force causes 
+the child and pogo stick to rise.
+",,3,

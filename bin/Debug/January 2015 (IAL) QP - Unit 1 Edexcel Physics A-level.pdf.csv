@@ -1,0 +1,79 @@
+questionNo,questionAqua,questionSmall,question,markScheme,score,Topics
+0,a,," A manufacturer of spring balances needs to select a spring that produces an extension 
+of 0.80 cm for each 100 g mass added.
+  Show that the manufacturer will need to select a spring with a spring constant of 
+í
+about 120 N m .
+",,3,
+0,b,," The manufacturer states that the maximum mass that can be hung on the spring 
+balance is 1.2 kg.
+  Explain why it is necessary to state the maximum mass.
+",,3,
+12,a,," Complete the table to describe the energy transfers of the bungee jumper.  Ignore any 
+changes that could be due to air resistance.
+",,2,
+12,b,(i)," Show that the maximum transfer of gravitational potential energy during a safe 
+jump is about 30 kJ.
+",,2,
+12,b,(ii)," Hence calculate the tension in the rope when the bungee jumper is 10 m above 
+the ground. 
+   initial length of rope = 23 m
+",,3,
+15,a,," On the diagram below draw the path the ball should take if a goal is to be scored.
+",,1,
+15,b,(i)," Show that the time taken to travel the horizontal distance of 1.5 m is about 0.7 s.
+",,3,
+15,b,(ii)," Calculate the vertical displacement of the ball when it has travelled a horizontal 
+distance of 1.5 m and hence comment on whether a goal will be scored.
+   vertical distance of ring from release point = 0.70 m
+",,4,
+15,b,(iii)," Explain how air resistance would have affected the calculation in (b)(i).
+",,2,
+16,a,(i)," State what is meant by high tensile strength.
+",,1,
+16,a,(ii)," Spiders use silk to build webs to catch insects.  Use the graph to explain how the properties 
+of spider silk make it more suitable than silkworm silk for building webs to catch insects. 
+",,4,
+16,b,(i)," Use the graph to determine the Young modulus of spider silk for small stresses.
+",,2,
+16,b,(ii)," An insect flies into a spider’s web and becomes attached to a single thread.  This 
+creates a tension in the thread of 580 μN.  The thread extends by approximately 
+3% of the original length.
+   Calculate the radius of a single thread of spider silk.
+",,4,
+17,a,(i)," Show that the work done by the swimmer on the water during each stroke is 
+about 90 J.
+",,2,
+17,a,(ii)," The stroke rate of the swimmer is 55 strokes per minute.  Calculate the power 
+developed by the swimmer’s arms.
+",,2,
+17,b,(i)," Use the graph to describe and explain the motion of the swimmer when 
+performing Glide 1 and Glide 2.
+",,4,
+18,a,(i)," Complete the free-body force diagram below for an oil drop falling freely through 
+the air.
+",,2,
+18,a,(ii)," Explain why the oil drop reaches a terminal velocity. 
+",,2,
+18,b,(i)," The oil drop takes 11.9 s to fall a distance of 10.2 mm.  
+í
+Show that the terminal velocity of the oil drop is about 0.001 m s .
+",,2,
+18,b,(ii)," Assuming that the upthrust is negligible, show that the radius of the oil drop is 
+about 3 μm.
+í
+   density of oil = 920 kg m
+í
+   viscosity of air = 1.82 × 10 Pa s
+",,4,
+18,b,(iii)," It is very difficult to measure the radius of such an oil drop directly.  
+Suggest why.
+",,2,
+18,c,," Explain why it was necessary for Millikan to maintain the air between the plates at a 
+constant temperature.
+",,2,
+18,d,," A student tried to model Millikan’s method for finding the radius of the oil drop.  The 
+student dropped a ball bearing and recorded the time it took to pass between two light 
+gates, a known distance apart. 
+  Explain why this is not a good model for Millikan’s method.
+",,2,

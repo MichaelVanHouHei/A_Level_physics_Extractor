@@ -1,0 +1,103 @@
+questionNo,questionAqua,questionSmall,question,markScheme,score,Topics
+0,a,," Describe how the student could use a graphical method to determine the spring 
+constant of the spring.
+",,3,
+0,b,," State two ways in which this method contributes to an accurate value for the spring 
+constant.
+",,2,
+0,a,,"	A	student	suggests	that	the	work	done	on	the	block	is	ΔW = 15 N × 0.050 m.
+  Explain why this suggestion is not correct.
+",,2,
+0,b,," When the spring is compressed by 0.060 m the tension in the spring is 18 N.
+  The mass is held in this position and then released.
+  The block now moves along the frictionless surface, losing contact with the spring 
+once the spring has reached its original length.
+  Calculate the velocity of the block after it loses contact with the spring.
+",,3,
+0,a,," Explain why the bubbles rise faster through the magma as they start to expand.
+",,3,
+0,b,," The table shows three types of magma: basaltic, andesitic and rhyolitic.
+Magma type Viscosity
+basaltic low
+andesitic medium
+rhyolitic high
+  Explain through which magma type the bubbles will rise with the greatest velocity.
+",,2,
+0,c,," The magma cools as it reaches the surface of the Earth.
+  State how cooling affects the magma.
+",,1,
+0,a,(i)," Explain why the cross‑ sectional area of the water outlet is smaller than the 
+cross‑ sectional area of the water intake.
+",,2,
+0,a,(ii)," Explain, using Newton’s laws of motion, how the ejection of water at high speed 
+results in the forward propulsion of the jet ski.
+",,3,
+0,b,," A man on a jet ski is heading away from the coast at a speed of 19 m s in a direction 
+–1
+30° south of east, as shown.  There is a current in the water of 6 m s due north.
+  The velocity of the jet ski has been drawn to scale on the vector diagram below 
+–1
+(with a scale of 1 m s = 0.5 cm).
+N
+–1
+0.5 cm = 1 m s
+position at t = 0
+coast
+–1
+19 m s
+  Complete the vector diagram and determine the resultant velocity of the jet ski.
+",,5,
+0,a,(i)," The launcher is initially set to release balls at a speed of 30 m s at an angle of 25° 
+to the horizontal.
+   State and explain two ways in which the launcher can be adjusted to increase the 
+time of flight of the ball.
+",,4,
+0,a,(ii)," Calculate the maximum power output of the launcher.
+   time taken to release a tennis ball = 0.90 s 
+mass of a tennis ball = 0.058 kg
+",,3,
+0,b,(i)," Explain why the detector records a velocity that is less than the actual velocity.
+",,2,
+0,b,(ii)," Using the values given in the diagram, calculate the percentage error in the 
+recorded velocity.
+",,3,
+0,a,," Explain which position of the coin, X or Y, would result in the smaller terminal velocity.
+",,3,
+0,b,(i)," The coin falls in position X as shown.
+{
+0.0016 m position X
+0.021 m
+–1
+   Show that the terminal velocity of the coin is about 15 m s .  Assume that the 
+upthrust on the coin is negligible.
+   C = 1.1
+–3
+	 	 	 	 ρ = 1.2 kg m
+   weight of coin = 0.048 N
+ ",,3,
+0,c,," A student claims that a small coin, if dropped from a tall building, can cause serious 
+injury were it to land on a person.
+  A second student claims that this would only be the case had the coin been falling 
+through a vacuum.
+  Show that a coin falling through a distance of 305 m through a vacuum would reach 
+the ground at a speed over 5 times faster than a coin falling this distance through air 
+in position X.
+",,3,
+0,a,(i)," Calculate the total force of the wire on the tooth to move the tooth in the direction 
+shown.
+",,2,
+0,a,(ii)," Explain why the wire will not produce any movement of the tooth perpendicular 
+to the direction shown.
+",,2,
+0,b,," The wire is already under tension when it is inserted into the brackets.
+  Calculate the extension of a nickel‑titanium wire when under a tension of 18 N.
+10
+  Young modulus of nickel‑titanium = 7.5 × 10 Pa 
+–2
+original length of wire = 8.4 × 10 m 
+–8 2
+cross‑ sectional area of wire = 7.1 × 10 m
+",,3,
+0,c,(i)," Complete the table to compare the properties of the two metals, using evidence 
+from the graph.  The first line has been completed for you.
+",,6,

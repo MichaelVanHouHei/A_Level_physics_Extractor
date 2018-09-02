@@ -1,0 +1,88 @@
+questionNo,questionAqua,questionSmall,question,markScheme,score,Topics
+0,a,," What is meant by a vector quantity?
+",,1,
+0,b,," A car is driven around a bend at a constant speed.
+  Explain what happens to its velocity.
+",,2,
+12,a,," A force of 38 N is applied at an angle of 60° to the horizontal.  The vacuum cleaner 
+moves across the floor at a constant speed.
+  Calculate the magnitude of the horizontal resistive force acting on the vacuum 
+cleaner.
+",,2,
+12,b,," The room is 5.5 m long.  The vacuum cleaner is pushed 20 times across the room to 
+clean the carpet.
+  Calculate the work done against the horizontal resistive force.
+",,2,
+12,c,," Each 5.5 m length takes a time of 9.0 s.
+  Calculate the rate at which this work is done.
+",,2,
+12,a,," The student uses a light gate as shown in the diagram.
+  Describe how the student obtains the measurements needed to calculate speed.
+",,2,
+12,b,," The student thinks that the stopwatch method is less reliable than the ICT method.
+  Discuss what makes using a stopwatch less reliable.
+",,2,
+14,a,," Show that the stress in the cable at point X is about 0.1 GPa.
+",,4,
+14,b,," The original length of the cable with no load is 15 m.
+  Calculate its extension when lifting the beam.
+  Young modulus for steel = 195 GPa
+",,3,
+14,c,," The steel cable consists of six strands each made of thirty seven wires.
+  Suggest why this is preferred to a single piece of steel.
+",,1,
+15,a,," Describe the apparatus you would use, the measurements you would take and explain 
+how you would use them to determine the Young modulus for the metal.
+",,8,
+15,b,," State one safety precaution you would take.
+",,1,
+15,c,," Explain one experimental precaution you would take to ensure you obtain accurate 
+results.
+",,2,
+16,a,(i)," Identify the Newton’s third law force that pairs with the force of the fan on the 
+air.
+",,1,
+16,a,(ii)," The boat is placed in the water and the fan switched on.  The boat remains at 
+rest.
+   Add labelled arrows to the diagram below to show the four forces acting on the 
+boat in this situation.
+",,2,
+16,b,," The physics student suggests that the boat is more likely to work if the fan is 
+reversed to point in the opposite direction.
+  Explain this suggestion.
+",,2,
+16,c,," Calculate the volume of water, in m , which must be displaced so that the boat will 
+float.
+  mass of boat = 130 g 
+–3
+density of water = 1000 kg m
+",,2,
+17,a,(i)," The table shows the average speed of flow for four of the temperatures.  
+Calculate the missing value and enter it in the table.  The distance between the 
+markers is 0.080 m.
+",,1,
+17,a,(ii)," Add this point to the graph below and draw a best-fit line for the student’s data.
+",,2,
+17,c,," The student thinks that the value measured for 61.5 °C is the most likely point to be 
+incorrect based on the technique described at the start of the question.
+  Explain why this should be so.
+",,2,
+18,a,," Show that the force constant for the spring is about 1000 N m .
+",,2,
+18,b,," The spring is 6.3 cm long.  When it is compressed in the gun, the length of the spring 
+is reduced to 1.6 cm.
+  Assuming that the spring obeys Hooke’s law throughout the compression, show that 
+the energy stored in the spring before firing the gun is about 1 J.
+",,2,
+18,d,(i)," Show that the maximum speed at which they can be fired is about 15 m s .
+",,2,
+18,d,(ii)," State an assumption that you have made.
+(1)
+................................................................................................................................................................................................................................................
+................................................................................................................................................................................................................................................
+ (d) The gun is fired at a fly on a wall 3.0 m away.  The gun is fired horizontally.
+  (i) Calculate the velocity of the disc as it hits the wall.  Ignore the effects of air 
+resistance.
+",,4,
+20,e,," Suggest an advantage of the disc used over a solid disc.
+",,1,
